@@ -1,0 +1,6 @@
+City: Praha, Brno, Ostrava, Londyn, Berlin, Rim
+PBO: Praha -> Brno -> Ostrava -> Praha
+OBP: Ostrava -> Brno -> Praha -> Ostrava
+BLR: Berlin -> Londyn -> Rim -> Berlin
+RLB: Rim -> Londyn -> Berlin -> Rim
+BR: Praha -> Londyn

@@ -1,0 +1,11 @@
+4.ukol
+
+4a)
+první je kapacita, ostatni radky je pruchod lidi za minutu, za jak dlouho se dostanou ven a po jak velikych skupinach, pokud vetsi nez ta skupina oznacim !
+Kude bude kolik lidi utikat, aby se dostalo ven -> maximalni tok v síti
+
+4b)
+rozdeleni do skupin (maly pocet skupin - lidi kteri se neznaji) -> barveni grafu . uzlu ->NP uplne problemy
+
+4c)
+Manhaticka vzdalenost (mrizka) -> BO - budovy, PO - parkovaci mista, musim spocitat cestu/vzdalenost, aby to bylo nejkratsi od domu k parkovani (parovani)

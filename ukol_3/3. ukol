@@ -1,0 +1,13 @@
+3. ukol
+- vyzkoušení algoritmu na hledání sledu
+
+3a)
+	projít všechny uzly, za nejkratší dobu a vrátit se do původního uzlu
+	hledání nejkratší cesty (obchodní cestující)
+3b)
+	projít všechny hrany, projít pravé jednou, nemusí existovat
+	
+3c)
+	vybírat ty nejmenší vzdálenosti
+	vztahy od někoho k někomu, kdo ma s kam vazby
+	
